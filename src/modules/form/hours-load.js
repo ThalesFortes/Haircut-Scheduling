@@ -2,6 +2,8 @@ import dayjs from "dayjs";
 
 import { openingHour } from "../../utils/opening-hour.js";
 
+const hours = document.getElementById("hours")
+
 export function hoursLoad( { date }){
   const opening = openingHour.map((hour) =>{
     //Recupera somente a hora
@@ -16,5 +18,14 @@ export function hoursLoad( { date }){
       isHourPast
     }
   })
-  console.log(opening)
 }
+
+// Renderiza os horários.
+opening.forEach(({ hour, available })=> {
+  const li = document.createElement("li")
+  li.classList.add("hour")
+  li.classList.add(available ? "hour-available" : "hour-unavailable")
+
+  li.textContent = hour
+  hours.append(li)
+});
