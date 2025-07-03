@@ -37,12 +37,17 @@ form.onsubmit = (event) => {
     const [hour] = hourSelected.innerText.split(":")
 
     //Insere a hora na data
-    const when = dayjs(selectedDate.value.add(hour, "hour"))
+    const when = dayjs(selectedDate.value).add(hour, "hour")
 
     //Gera um ID
     const id = new Date().getTime()
 
   
+    console.log({
+      id,
+      name,
+      when
+    })
 
   } catch (error){
     alert("Não foi possível realizar o agendamento")
