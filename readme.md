@@ -16,10 +16,17 @@
      <a href="https://shoopingbuylist.netlify.app/">📱 Visit this Project</a>
 </p>
 
-<h2 id="layout">🎨 Layout</h2>
+<h2 id="layout">🎨 Layout Desktop</h2>
 
 <p align="center">
-      <img src="./assets/image.png" alt="Imagem da pagina demonstrando como ela e" width="400px" height=300px">
+      <img src="./readme-images/desktop.png" alt="Imagem da pagina demonstrando como ela e" width="400px" height="400px">
+</p>
+
+<h2 id="layout">🎨 Layout Mobile</h2>
+
+<p align="center">
+      <img src="./readme-images/mobile_0.png" alt="Imagem da pagina demonstrando como ela e" width="400px" height="300px">
+      <img src="./readme-images/mobile_1.png" alt="Imagem da pagina demonstrando como ela e" width="400px" height="300px">
 </p>
 
 <h2 id="installation">Installation</h2>
