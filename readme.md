@@ -26,7 +26,7 @@
 
 <p align="center">
       <img src="./readme-images/mobile_0.png" alt="Imagem da pagina demonstrando como ela e" width="300px" height="100px">
-      <img src="./readme-images/mobile_1.png" alt="Imagem da pagina demonstrando como ela e" width="400px" height="300px">
+      <img src="./readme-images/mobile_1.png" alt="Imagem da pagina demonstrando como ela e" width="200px" height="200px">
 </p>
 
 <h2 id="installation">Installation</h2>
