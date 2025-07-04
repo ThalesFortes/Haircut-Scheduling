@@ -1,9 +1,9 @@
 <h1 align="center" style="font-weight: bold;">Haircut Scheduling💻</h1>
 
 <p align="center">
- <a href="#tech">Technologies</a> • 
- <a href="installation">Installation</a>
- <a href="#started">Getting Started</a> • 
+ • <a href="#tech">Technologies</a> • 
+ <a href="installation">Installation</a> • 
+ <a href="#started">Getting Started</a> 
 </p>
 
 <p align="center">
