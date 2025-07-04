@@ -12,10 +12,6 @@
     </b>
 </p>
 
-<p align="center">
-     <a href="https://shoopingbuylist.netlify.app/">📱 Visit this Project</a>
-</p>
-
 <h2 id="layout">🎨 Layout Desktop</h2>
 
 <p align="center">
@@ -29,7 +25,7 @@
       <img src="./readme-images/mobile_1.png" alt="Imagem da pagina demonstrando como ela e" width="318px" height="200px">
 </p>
 
-<h2 id="installation">Installation</h2>
+<h2 id="installation">📱 Installation</h2>
 
 - Clone the project: 
 ```bash git clone https://github.com/ThalesFortes/hairday.git ```
@@ -61,6 +57,7 @@
 - HTML5
 - CSS3
 - JAVASCRIPT
+- JSON-SERVER
 
 <h2 id="started">🚀 Getting started</h2>
 
