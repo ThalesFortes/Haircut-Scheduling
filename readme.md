@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Convert Money💻</h1>
+<h1 align="center" style="font-weight: bold;">Haircut Scheduling💻</h1>
 
 <p align="center">
  <a href="#tech">Technologies</a> • 
@@ -8,7 +8,7 @@
 
 <p align="center">
     <b>
-      Shopping list in CRUD, where I trained in JavaScript, creating, reading, removing, updating, and saving tasks in local storage.
+      Application for a barber shop where it is possible to schedule and unschedule haircuts internally by sending data to an API. JSON-server was used to simulate an API, and webpack-server was used to compile HTML, CSS, and JavaScript to run the program. Babel was used to convert the ECMAScript 2015+ code into a version compatible with previous versions of JavaScript in current and older browsers or environments. In addition, the code was modularized and separated to make it easy to maintain.
     </b>
 </p>
 
